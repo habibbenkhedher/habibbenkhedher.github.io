@@ -4,7 +4,7 @@ title: Home
 ---
 
 <section class="hero">
-  <h2>Hi, I'm [Your Name]</h2>
+  <h2>Hi, I'm Habib Ben Khedher</h2>
   <p>Welcome to my professional portfolio website!</p>
 </section>
 
