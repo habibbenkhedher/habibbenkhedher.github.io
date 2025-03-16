@@ -1,6 +1,6 @@
 ---
-layout: Portfolio
-title:  "Welcome to my Portfolio!"
+layout: post
+title:  "Welcome to Jekyll!"
 date:   2025-03-16 20:26:12 +0100
 categories: jekyll update
 ---
